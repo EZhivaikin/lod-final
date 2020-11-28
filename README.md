@@ -1,6 +1,6 @@
 # Сайт для рекрутеров, анализ резюме и скрининг интервью в телеграм боте
 
-# Сайт для рекрутеров
+## Сайт для рекрутеров
 Сайт для рекрутеров располагается в [этом репозитории](https://github.com/awakentrue/EmployeeRecruiting/tree/master).
 Написан на .NET core Web API, Blazor, MediatR, MudBlazor, Entity Framework, PostgreSQL, Swagger, RestSharp
 
