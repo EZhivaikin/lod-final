@@ -9,5 +9,5 @@
 Для получения вопросов для скрининга обращается к API сайта для рекрутеров. Написан с помощью [aiogram](https://github.com/aiogram/aiogram) (FSM :fire:).
 
 # Сайт для рекрутеров
-Сайт для рекрутеров располагается в [этом репозитории](https://github.com/awakentrue/EmployeeRecruiting).
+Сайт для рекрутеров располагается в [этом репозитории](https://github.com/awakentrue/EmployeeRecruiting/tree/master).
 Написан на .NET core Web API, Blazor, MediatR, MudBlazor, Entity Framework, PostgreSQL, Swagger, RestSharp
