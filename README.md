@@ -6,4 +6,8 @@
 ## Телеграм бот
 
 В папке [telegram-bot](telegram-bot) находятся исходники telegram бота, который анализирует резюме и проводит скрининг интервью.
-Для получения вопросов для скрининга обращается к API сайта для рекрутеров. Написан с помощью [aiogram](https://github.com/aiogram/aiogram) (FSM огонь).
+Для получения вопросов для скрининга обращается к API сайта для рекрутеров. Написан с помощью [aiogram](https://github.com/aiogram/aiogram) (FSM :fire:).
+
+# Сайт для рекрутеров
+Сайт для рекрутеров располагается в [этом репозитории](https://github.com/awakentrue/EmployeeRecruiting).
+Написан на .NET core Web API, Blazor, MediatR, MudBlazor, Entity Framework, PostgreSQL, Swagger, RestSharp
